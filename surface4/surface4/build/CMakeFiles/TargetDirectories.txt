@@ -1,0 +1,3 @@
+/home/peggy/Part-Time-Job/surface/surface_done2/surface4 2/build/CMakeFiles/rebuild_cache.dir
+/home/peggy/Part-Time-Job/surface/surface_done2/surface4 2/build/CMakeFiles/edit_cache.dir
+/home/peggy/Part-Time-Job/surface/surface_done2/surface4 2/build/CMakeFiles/surface.dir
